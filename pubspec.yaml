@@ -14,20 +14,20 @@ dependencies:
 
   zego_plugin_adapter: ^2.14.2
 
-  zego_zim: ^2.28.0
-  zego_zpns: ^2.8.0
-  zego_callkit: ^1.0.0+4
+  zego_zim: ^2.29.0+1
+  zego_zpns: ^2.8.1
+  zego_callkit: ^1.0.0+6
 
   flutter_logs_yoer: ^2.2.1
   plugin_platform_interface: ^2.1.8
-  shared_preferences: ^2.2.3
+  shared_preferences: ^2.5.5
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^6.0.0
   import_sorter: ^4.6.0 # run 'flutter pub run import_sorter:main'
-  lints: ^6.0.0
+  lints: ^6.1.0
 
 flutter:
   plugin:
